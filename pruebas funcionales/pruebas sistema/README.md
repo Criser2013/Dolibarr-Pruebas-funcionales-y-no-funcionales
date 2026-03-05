@@ -1,6 +1,6 @@
 # Pruebas de sistema
 En este paquete, hay casos de prueba para los módulos de "facturación", "tickets" y "MRP" de Dolibarr. Estas pruebas se encuentran codificadas en el framework [Playwright](https://playwright.dev/) en su versión de **Python**.
-Las técnicas utilizadas para el diseño de los casos de prueba fueron: particiones de equivalencia y rablas de decisión, la documentación asociada está disponible en [este archivo](https://docs.google.com/spreadsheets/d/1vwR9MOoKY_qYQYv3sNeQtmdAnCmDssLD/edit?usp=sharing&ouid=100049882241117173391&rtpof=true&sd=true).
+Las técnicas utilizadas para el diseño de los casos de prueba fueron: particiones de equivalencia y tablas de decisión, la documentación asociada está disponible en [este archivo](https://docs.google.com/spreadsheets/d/1vwR9MOoKY_qYQYv3sNeQtmdAnCmDssLD/edit?usp=sharing&ouid=100049882241117173391&rtpof=true&sd=true).
 
 ## Requisitos
 1. Debe tener instalado Dolibarr en el sistema que probará. Para ver la guía de descarga e instalación [consulte la guía oficial](https://www.dolibarr.org/downloads.php). Se recomienda utilizar la versión de disponible en [Dockerhub](https://hub.docker.com/r/dolibarr/dolibarr).
